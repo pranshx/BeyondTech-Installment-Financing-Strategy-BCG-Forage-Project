@@ -39,11 +39,6 @@ This project determines whether installment financing is a strategically and fin
 - 72% are willing to spend more or upgrade sooner when monthly payments are available  
 - Competitors who introduced financing saw 25%–30% younger customer base expansion  
 
-### Screenshot Placeholder:
-<p align="center">
-  <img src="Image_Asset/Strategy Consulting_Template.png" width="600"/>
-</p>
-
 ---
 
 ## Competitor Financial Analysis
@@ -72,7 +67,7 @@ Key comparisons included:
 
 ### Screenshot Placeholder:
 <p align="center">
-  <img src="Image_Asset/Strategy_Consulting_Task 5_Stakeholder_Map_Template_v2.png" width="600"/>
+  <img src="Image_Asset/Strategy Consulting_Template.png" width="600"/>
 </p>
 
 ---
